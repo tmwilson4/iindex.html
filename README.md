@@ -14,9 +14,9 @@ This will hold all the data from the previous assignment while introducing the n
     <body style="background:  #896952">
         <h1 style="color:black;background: #ba9e8a;font-family: serif; text-align: center"> Brief Introduction</h1>
             <div style="text-align: center;"><!--this will allow the text to remain side by side but also be centered-->
-                 <img src = "img\img2.jpg"  width="290" height="300">
+                 <img src = "img\img2.jpg" alt="UTP picture" width="290" height="300">
                 <div style = "display:inline-block"> <!--the inline-->
-                 <img src = "img\img3.jpg"  width="290" height="300">
+                 <img src = "img\img3.jpg" alt="STEM Practices w/ kids from Malaysia width="290" height="300">
                 </div>
             </div>
         <hr />
@@ -88,7 +88,7 @@ This will hold all the data from the previous assignment while introducing the n
         <br>and have my work honor me posthumously.
          </p>
     <div style = "text-align: center"> <!--this will center the picture-->
-        <img src = "img\img1.jpg"  width="290" height="300">
+        <img src = "img\img1.jpg" alt="Self Portrait" width="290" height="300">
     <hr /> <!--CHANGE THE BOARDER COLOR TO THE COLOR BAKCGROUND BEHIND ABOUT ME-->
     <h3> <u>Semester Schedule</u></h3>
 
